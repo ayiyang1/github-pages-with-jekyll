@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: Austin Yang's Blog
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi! This is my mini-blog! Here is some info about me! 
+
+Name: Austin Yang
