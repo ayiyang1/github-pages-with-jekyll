@@ -2,13 +2,11 @@ title: Austin's Mini Blog
 author: Austin Yang
 email: ayang1@ebnet.org
 description: Lil blog :D:D 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Hi! Welcome to my blog!
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: https://twitter.com/AustinY83507667
+github_username:  https://github.com/ayiyang1
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
