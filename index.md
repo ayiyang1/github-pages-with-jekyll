@@ -9,5 +9,5 @@ Name: Austin Yang
 Instagram: @yanglerss
 Brag Sheet: 
 1) I like learning languages! 
-2) I play bass
-3) Sleeping is fun
+2) I like cooking!
+3) I enjoy sleeping
